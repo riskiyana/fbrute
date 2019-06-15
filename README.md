@@ -8,3 +8,6 @@
 #cd fbrute
 
 #python2 brute.py
+
+
+Kalau gk dapet pw nya . Cba bikin sendiri bikin password nya . Jangan manja lu tai
