@@ -1,7 +1,9 @@
 # fbrute
 
 
-#pkg install 
+#pkg install update
+
+#pkg install upgrade
 
 #pkg python2
 
